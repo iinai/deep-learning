@@ -1,19 +1,19 @@
-# Syväoppiminen harjoitustyö
+# Deep learning project
 
-## Yleiskatsaus
+## Overview
 
-Tämä on Syväoppimisen kurssin harjoitustyön kansio. Täältä löydät kaikki syväoppimisen harjoitustyöhön liittyvät dokumentit ja aineiston.
+This is a folder of exercises for the Deep Learning course. Here you can find all the documents and material related to the deep learning exercise.
 
 ## Projektiryhmä
 
-| Nimi | Opiskelijatunnus |
+| Name | StudentID |
 | :-- | :-: |
 | Pirinen, Iina | AB7766 |
 
-## Täkeät tiedostot
+## Important files
 
-[Projektin kuvaus](./projektin_kuvaus.ipynb)
+Project description](./projektin_kuvaus.ipynb)
 
-[Ensimmäinen vaihe](./first_try.ipynb)
+[Stage 1](./first_try.ipynb)
 
-[Viimeistelty malli](./tuned_model.ipynb)
+[Final model](./tuned_model.ipynb)
