@@ -1,29 +1,33 @@
-# Syväoppiminen - harjoitustehtävät
+# Deep Learning Projects Repository
 
-* Syksyn 2023 harjoitukset
+Welcome to my GitHub repository showcasing my skills in deep learning! This repository contains a collection of projects completed during a specific course, as well as a self-chosen project that demonstrates my individual interests and capabilities.
 
-## Opiskelijan nimi tai Opiskelijoiden nimet
+## Projects Overview
 
-* Iina Pirinen (AB7766)
+### 1. Course-Specific Project 1
 
-Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter Notebook**-tiedostoina.
+[](./osa_1/osa1_tehtavat.ipynb) Contains code related to Course-Specific Project 1.
 
-## Harjoitukset
+### 2. Course-Specific Project 2
 
-Tässä repositoryssä on Syväoppiminen-opintojakson harjoitustehtävien pohjat **Jupyter Notebook** -muodossa.
-Repositoryyn voi tulla myöhemmin korjauksia eli kannattaa tarkastaa ennen tehtävien palautusta. Pieniä tekstimuutoksia ei
-kannata kopioida palautettaviin tehtäviin, mutta tehtävätekstit kannattaa silti tarkastaa.
+[](./osa_2/osa2_tehtavat.ipynb) Contains code related to Course-Specific Project 2.
 
-## Jupyter Notebook - tehtävien palautus
+### 3. Course-Specific Project 3
 
-*Älä muuta Jupyter Notebook -tiedostojen perusrakennetta, kun palautat tehtäviä repositoryyn.*
+[](.//osa_3/osa3_tehtavat.ipynb) Holds code for Course-Specific Project 3.
 
-* Uusia koodi- tai dokumenttisoluja voi tarpeen mukaan lisätä, koska tällä kurssilla ei ole automaattitarkastusta käytössä.
-* Mieluummin ei uusia soluja kovin paljon, koska tarvittavat solut pääasiassa löytyvät tehtävädokumenteista!
-* Alkuperäinen koodi- ja MarkDown-solujen järjestys, joka Notebookissa on, tulee säilyttää.
+### 4. Self-Chosen Project
 
-## Forkkaus ja oikeudet
+- **Project Title:** Cat or Dog Image Classifier
+- **Description:** 
+- **Implementation:** 
+- **Results:**
+- [](./osa_4) Includes code and resources for the self-chosen deep learning project.
 
-**Forkkaa** repository itsellesi (tee aina **Private**-repository) ja aseta oikeudet vain itsellesi, mahdolliselle toiselle ryhmän jäsenelle (voi tehdä 1-2 hengen "ryhmissä') ja kurssin opettajalle heti, kun olet aloittamassa harjoituksia.  
+## Connect with Me
 
-Anna opettajalle **Developer**-oikeudet Repositoryyn ainakin siihen asti, kunnes tehtävien tarkastus suoritettu ja pisteet niistä saatu.
+- [LinkeIn](https://www.linkedin.com/in/iina-ilona-pirinen/)
+
+Feel free to reach out if you have any questions, suggestions, or collaboration opportunities!
+
+Happy coding!
