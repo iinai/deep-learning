@@ -4,7 +4,7 @@
 
 This is a folder of exercises for the Deep Learning course. Here you can find all the documents and material related to the deep learning exercise.
 
-## Projektiryhmä
+## Project group
 
 | Name | StudentID |
 | :-- | :-: |
