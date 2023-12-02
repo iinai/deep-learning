@@ -12,7 +12,7 @@ This is a folder of exercises for the Deep Learning course. Here you can find al
 
 ## Important files
 
-Project description](./projektin_kuvaus.ipynb)
+[Project description](./projektin_kuvaus.ipynb)
 
 [Stage 1](./first_try.ipynb)
 
