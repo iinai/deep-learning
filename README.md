@@ -19,7 +19,7 @@ Welcome to my GitHub repository showcasing my skills in deep learning! This repo
 ### 4. Self-Chosen Project
 
 - **Project Title:** Cat or Dog Image Classifier
-- **Description:** 
+- **Description:** Still in progress!
 - **Implementation:** 
 - **Results:**
 - [osa_4](./osa_4) Includes code and resources for the self-chosen deep learning project.
