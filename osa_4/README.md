@@ -10,10 +10,12 @@ Tämä on Syväoppimisen kurssin harjoitustyön kansio. Täältä löydät kaikk
 | :-- | :-: |
 | Pirinen, Iina | AB7766 |
 
-## Täkeät tiedostot
+## Tärkeät tiedostot
 
 [Projektin kuvaus](./projektin_kuvaus.ipynb)
 
-[Ensimmäinen vaihe](./first_try.ipynb)
+[Ensimmäinen vaihe](./model/first_try.ipynb)
 
-[Viimeistelty malli](./tuned_model.ipynb)
+[Viimeistelty malli](./model/tuned_model.ipynb)
+
+[Cat or Dog? -sovellus](./flask-app)

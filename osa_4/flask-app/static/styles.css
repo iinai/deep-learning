@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    background-color: #fda8d4;
+    background-image: url(./img/holographic.jpg);
+    background-size: cover;
+    font-family: 'Abril Fatface', serif;
+    text-align: center;
+}
+
+form {
+    color: #161616;
+    max-width: 100%;
+}
+
+img {
+    width: 50%;
+}
+
+label {
+    padding-top: 2px;
+}
+
+p {
+    font-size: 2em;
+    margin: 1em 0 0.5em 0;
+}
+
+input {
+    margin-left: 4em;
+}
+
+.submit_btn {
+    background-color: #fefefe;
+    width: 18.6em;
+    margin: 1em 0 0 0;
+    padding: 16px 32px;
+    border-style: solid;
+    border-width: medium;
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: 5px 5px #161616;
+    font-family: 'Abril Fatface', serif;
+    font-size: large;
+}
+
+.submit_btn:hover {
+    background-color: #febece;
+}
+
+.prediction {
+    margin: 0 0 1em 0;
+    font-size: 2em;
+    color: #161616;
+}
+
+#preview {
+    width: 20%;
+    margin-top: 2em;
+}
+
+#image {
+    background-color: #fefefe;
+    width: 20em;
+    margin: 1em 0 0 0;
+    padding: 16px 32px;
+    border-style: solid;
+    border-width: medium;
+    cursor: pointer;
+    transition: 0.4s;
+    box-shadow: 5px 5px #161616;
+}
+
+#image:hover {
+    background-color: #febece;
+}
+
+::-webkit-file-upload-button {
+    display: none;
+ }
+
+.custom-file-input::before {
+    font-family: 'Abril Fatface', serif;
+    font-size: large;
+    content: 'Select an image:';
+    margin-right: 1em;
+}
+
+

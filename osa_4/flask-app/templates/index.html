@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="../static/img/favicon.ico">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="../static/styles.css">
+    <title>Cat or Dog?</title>
+</head>
+
+<html lang="en">
+    <body>
+
+        <img class="banner" src="../static/img/morri_ja_nakki_bgless.png">
+
+        <form action="{{ url_for('displayImage') }}" method="post" enctype="multipart/form-data">
+
+            <div>
+                <p>Upload an image:</p>
+                <label for="image"></label>
+                <input type="file" id="image" name="image" accept="image/*" class="custom-file-input">
+            </div>
+            
+            <input type="submit" value="Submit" class="submit_btn">
+
+        </form>
+
+        <img id="preview">
+
+        <div class="prediction">
+            {{ prediction }}
+        </div>
+
+        <div class="prediction">
+            <img src="{{ image_data }}" style="width: 20%;">
+        </div>
+
+        <script>
+            const input = document.getElementById('image');
+            const preview = document.getElementById('preview');
+            const predictionElements = document.querySelectorAll('.prediction');
+
+            input.addEventListener('change', () => {
+                const reader = new FileReader();
+                reader.onload = () => {
+                    preview.src = reader.result;
+                    hidePredictions();
+                };
+                reader.readAsDataURL(input.files[0]);
+            });
+
+            function hidePredictions() {
+                for (const predictionElement of predictionElements) {
+                    predictionElement.style.display = 'none';
+                }
+            }
+        </script>
+    </body>
+</html>
