@@ -1,29 +1,12 @@
-# Syväoppiminen - harjoitustehtävät
+# Deep Learning Repository
 
-* Syksyn 2023 harjoitukset
+## Overview
 
-## Opiskelijan nimi tai Opiskelijoiden nimet
+This repository contains task sets 1-3 of the Deep Learning course as well as a small project that seems to bring together the things learned in the course.
 
-* Iina Pirinen (AB7766)
+The exercise in section 4 is a cat or dog classifier. It is a neural network that classifies pictures of cats and dogs. A website has been built for Neuroverk using Flask, as well as basic HTML and CSS.
 
-Tästä GitLab-Repositorysta löytyvät opintojakson tehtävien pohjat **Jupyter Notebook**-tiedostoina.
-
-## Harjoitukset
-
-Tässä repositoryssä on Syväoppiminen-opintojakson harjoitustehtävien pohjat **Jupyter Notebook** -muodossa.
-Repositoryyn voi tulla myöhemmin korjauksia eli kannattaa tarkastaa ennen tehtävien palautusta. Pieniä tekstimuutoksia ei
-kannata kopioida palautettaviin tehtäviin, mutta tehtävätekstit kannattaa silti tarkastaa.
-
-## Jupyter Notebook - tehtävien palautus
-
-*Älä muuta Jupyter Notebook -tiedostojen perusrakennetta, kun palautat tehtäviä repositoryyn.*
-
-* Uusia koodi- tai dokumenttisoluja voi tarpeen mukaan lisätä, koska tällä kurssilla ei ole automaattitarkastusta käytössä.
-* Mieluummin ei uusia soluja kovin paljon, koska tarvittavat solut pääasiassa löytyvät tehtävädokumenteista!
-* Alkuperäinen koodi- ja MarkDown-solujen järjestys, joka Notebookissa on, tulee säilyttää.
-
-## Forkkaus ja oikeudet
-
-**Forkkaa** repository itsellesi (tee aina **Private**-repository) ja aseta oikeudet vain itsellesi, mahdolliselle toiselle ryhmän jäsenelle (voi tehdä 1-2 hengen "ryhmissä') ja kurssin opettajalle heti, kun olet aloittamassa harjoituksia.  
-
-Anna opettajalle **Developer**-oikeudet Repositoryyn ainakin siihen asti, kunnes tehtävien tarkastus suoritettu ja pisteet niistä saatu.
+* [Task Set 1](./osa_1/)
+* [Task Set 2](./osa_2/)
+* [Task Set 3](./osa_3/)
+* [Cat Or Dog Classifier](./osa_4/)
