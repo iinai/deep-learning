@@ -1,21 +1,15 @@
-# Syväoppiminen harjoitustyö
+# Cat Or Dog Classifier
 
-## Yleiskatsaus
+## Overview
 
-Tämä on Syväoppimisen kurssin harjoitustyön kansio. Täältä löydät kaikki syväoppimisen harjoitustyöhön liittyvät dokumentit ja aineiston.
+Here you can find the source codes for the classifier and the flask app.
 
-## Projektiryhmä
+## Important files
 
-| Nimi | Opiskelijatunnus |
-| :-- | :-: |
-| Pirinen, Iina | AB7766 |
+[Project description](./projektin_kuvaus.ipynb)
 
-## Tärkeät tiedostot
+[First step](./model/first_try.ipynb)
 
-[Projektin kuvaus](./projektin_kuvaus.ipynb)
+[Tuned Model](./model/tuned_model.ipynb)
 
-[Ensimmäinen vaihe](./model/first_try.ipynb)
-
-[Viimeistelty malli](./model/tuned_model.ipynb)
-
-[Cat or Dog? -sovellus](./flask-app)
+[Cat or Dog? -app](./flask-app)
